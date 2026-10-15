@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Awais Ahmed - Physiotherapy Clinic",
+  "description": "Elite portfolio, rehabilitation services, interactive pain navigator, and appointment booking for Dr. Awais Ahmed (Neuro-muscular Physiotherapist) at Sultan Hospital, Grand City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
